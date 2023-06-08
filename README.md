@@ -58,4 +58,12 @@ t.	Submit final project via CANVAS.
  MO 3 Identify the most appropriate visualization method for a given type of data and task (CO 2, 3, 6, 7)
  
  MO 4 Create interactive dashboards and data stories using tableau (CO 3, 4, 5)
+ 
+ # Attached files
+ 
+ a. Torres_Module7_Final_Project (MS Word document)
+ b. Torres_Module7_FinalProject (Tableau or twbx document)
+ c. Unpopoular_songs (CSV file)
+ d. Unpopoular_songs_clean (CSV file)
+ e. Unpopoular_songs_clean (MS Excel file)
 
