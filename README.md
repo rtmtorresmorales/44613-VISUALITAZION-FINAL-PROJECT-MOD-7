@@ -62,8 +62,12 @@ t.	Submit final project via CANVAS.
  # Attached files
  
  a. Torres_Module7_Final_Project (MS Word document)
+ 
  b. Torres_Module7_FinalProject (Tableau or twbx document)
+ 
  c. Unpopoular_songs (CSV file)
+ 
  d. Unpopoular_songs_clean (CSV file)
+ 
  e. Unpopoular_songs_clean (MS Excel file)
 
