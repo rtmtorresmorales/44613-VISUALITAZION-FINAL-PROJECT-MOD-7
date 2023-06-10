@@ -49,6 +49,8 @@ s.	Zip the appropriate files as required for this project.
 
 t.	Submit final project via CANVAS.
 
+u.  Create repository on GitHub and upload files to new repository Module 7 Final Project
+
 # Module 7 Learning outcomes:  
 
  MO 1 Recognize the types of data visualization (CO 2, 3, 6)
