@@ -49,7 +49,7 @@ s.	Zip the appropriate files as required for this project.
 
 t.	Submit final project via CANVAS.
 
-u.  Create repository on GitHub and upload files to new repository Module 7 Final Project
+u.  Create repository on GitHub and upload files to new repository 44613-VISUALITAZION-FINAL-PROJECT-MOD-7
 
 # Module 7 Learning outcomes:  
 
